@@ -18,6 +18,16 @@
  </p>
  
 I am Milan a full-stack developer 😄
+- 🔭 I’m currently working on ...
+  
+- 🌱 I’m currently learning ...
+
+- 👯 I’m looking to collaborate on ...
+  
+- 🤔 I’m looking for help with Godot & Creating games
+  
+- 📫 How to reach me: milanfernandojobs.occupant638@aleeas.com
+
 <!--[Uploading io-badge2.md…]()
 
 **toonbie/toonbie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
