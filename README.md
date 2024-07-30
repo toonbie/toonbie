@@ -18,9 +18,7 @@
  </p>
  
 I am Milan a full-stack developer 😄
-- 🔭 I’m currently working on ...
-  
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on getting a job
 
 - 👯 I’m looking to collaborate on ...
   
