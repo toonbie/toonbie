@@ -20,7 +20,7 @@
 I am Milan a full-stack developer 😄
 - 🔭 I’m currently working on getting a job
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on Godot or Lua modding for Terraria (I feel like I would be the most motivated to work on these )
   
 - 🤔 I’m looking for help with Godot & Creating games
   
