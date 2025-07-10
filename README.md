@@ -24,7 +24,7 @@ I am Milan a full-stack developer 😄
   
 - 🤔 I’m looking for help with Godot & Creating games
   
-- 📫 How to reach me: milanfernandojobs.occupant638@aleeas.com
+- 📫 How to reach me: milanburny@gmail.com
 
 <!--[Uploading io-badge2.md…]()
 
